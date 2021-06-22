@@ -13,7 +13,7 @@
           </div>
         </header>
         <div>
-          <div class="m-auto flex-col justify-center text-gray-100 max-w-10/12 text-left">
+          <div class="m-auto flex-col justify-center text-gray-100 max-w-10/12 text-justify">
             <nuxt-content :document="article" />
           </div>
         </div>

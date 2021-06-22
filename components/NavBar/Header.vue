@@ -6,10 +6,11 @@
         class="text-blue-400 p-1"
         target="_blank"
         href="https://discord.com/oauth2/authorize?client_id=846045254750175312&scope=bot&permissions=8"
-        >Botu Ekle</a
-      >      
-      <a href="https://discord.gg/jWdYXR99Va" class="text-blue-400 p-1">Destek Sunucusu</a>
-      <a class="text-blue-400 p-1" href="https://docs.wardbot.net">Dokümentasyon</a>
+        >Invite</a
+      >
+            <a class="text-blue-400 p-1" href="/#features">Features</a>
+      <a href="https://discord.gg/jWdYXR99Va" class="text-blue-400 p-1">Support Server</a>
+      <a class="text-blue-400 p-1" href="https://docs.wardbot.net">Documantation (Coming Soon)</a>
       <a class="text-blue-400 p-1" href="blog/">Blog</a>
     </div>
   </div>
