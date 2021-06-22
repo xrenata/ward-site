@@ -20,4 +20,3 @@ Complete bot website with Main Page, Blog, About page.
  Compotents: Compotents stores here like navbar and footer.
  
  Assets: Article images and other svg icons goes here.
- 
